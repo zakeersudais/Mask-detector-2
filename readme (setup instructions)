@@ -1,0 +1,16 @@
+1. download these all files as a ZIP file
+
+2. install python
+3. open start menu
+4. right click on python 
+5. select open file location 
+6. right click on selected file
+7. open file location
+8. open scripts folder
+9. type cmd on the address bar
+10. type or paste all commands on the requirment text document 
+
+11. extract the downloaded zip file
+12. type CMD on the address bar
+13. type the command PY base_code.py
+14. it will run correctly if you installed old pip programs

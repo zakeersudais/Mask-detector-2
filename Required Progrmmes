@@ -1,0 +1,25 @@
+These are Required to run this program correctly.
+
+Python 3.10.8 (the latest version of python is 3.11. but it was not worked in my case.)
+python 3.10.8 link : https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe  (64 bit)
+                     https://www.python.org/ftp/python/3.10.8/python-3.10.8.exe        (32 bit)
+                     
+tensorflow
+numpy
+imutils
+keras
+opencv-python
+scipy
+matplotlib
+
+
+you can install these by Pasting these commands in cmd 
+pip install tensorflow
+pip install numpy
+pip install imutils
+pip install keras
+pip install opencv-python
+pip install scipy
+pip install matplotlib
+
+(these commands are must be used after installing python.)
